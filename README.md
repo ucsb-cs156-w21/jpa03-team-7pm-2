@@ -27,7 +27,9 @@ On Heroku: https://jpa03-cgaucho.herokuapp.com
   badge markup below as well so that the badge links to your
   correct codecov report.
 
-On Codecov: [![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2/branch/main/graph/badge.svg?token=NADR31TNM7)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2)
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2/
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2/branch/main/graph/badge.svg?token=NADR31TNM7)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2)
 
 
 ## Integrations
