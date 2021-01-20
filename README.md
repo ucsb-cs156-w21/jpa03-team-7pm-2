@@ -29,8 +29,6 @@ On Heroku: https://jpa03-cgaucho.herokuapp.com
 
 On Codecov: [![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2/branch/main/graph/badge.svg?token=NADR31TNM7)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-7pm-2)
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho)
-
 
 ## Integrations
 
